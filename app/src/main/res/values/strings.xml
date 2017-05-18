@@ -1,0 +1,26 @@
+<resources>
+    //XML
+    <string name="app_name">Just Java Cafe</string>
+    <string name="hint"> Name </string>
+    <string name="toppings"> Toppings </string>
+    <string name="cream"> Whipped cream </string>
+    <string name="choco"> Chocolate </string>
+    <string name="quantity"> Quantity </string>
+    <string name="minus_button" translatable="false"> - </string>
+    <string name="exact_quantity" translatable="false"> 1 </string>
+    <string name="plus_button" translatable="false"> + </string>
+    <string name="order"> Order </string>
+
+    //Java
+    //"m" as a part of e-mail message
+    <string name="more_than_100_coffees"> You can\'t order more than 100 coffees </string>
+    <string name="less_than_1_coffee"> You can\'t order less than 1 coffee </string>
+    <string name="mQuantity"> "Quantity: " </string>
+    <string name="mAddCream"> "Add whipped cream? " </string>
+    <string name="mAddChoco"> "Add chocolate? " </string>
+    <string name="mPrice1Cup"> (Price for one cup: $ </string>
+    <string name="mTotal"> Total: $ </string>
+    <string name="mThank_you"> Thank you! </string>
+    <string name="order_for"> "Just Java order for " </string>
+    <string name="mName"> "Name: " </string>
+</resources>
